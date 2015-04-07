@@ -5213,6 +5213,9 @@ th.visible-print, td.visible-print {
 .tile.tile-biru{
     background-color: #004b8f;
 }
+.tile.tile-white{
+    background-color: #ffffff
+}
 .tile.tile-blue {
     background-color: #2e8bcc;
 }
